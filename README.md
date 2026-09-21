@@ -20,7 +20,7 @@ Single self-contained HTML file. No build step, no dependencies.
 
 ## Citation
 
-https://doi.org/10.5281/zenodo.XXXXXXXX
+https://doi.org/10.5281/zenodo.22875962
 
 ## Attribution
 
